@@ -12,6 +12,16 @@
   padding: 0;
 }
 
+#inicio,
+#slide-1,
+#slide-2,
+#slide-3,
+#slide-4,
+#slide-5,
+#slide-6 {
+  scroll-margin-top: 10rem;
+}
+
 body {
   font-family:
     system-ui,
