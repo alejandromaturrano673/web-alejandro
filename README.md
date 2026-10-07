@@ -2,6 +2,8 @@
 
 Proyecto web desarrollado utilizando HTML semántico y CSS.
 
+<img src="./images/captura.png" height=400>
+
 ## 📁 Estructura del Proyecto
 
 - `css/`: Contiene el archivo de estilos (`estilos.css`).
